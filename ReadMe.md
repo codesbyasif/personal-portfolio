@@ -2,5 +2,5 @@
 
   Responsive Portfolio Website using HTML, CSS, and JavaScript.
 
-  <a href="https://github.com/codesbyasif/personal-portfolio.git/"><strong>➥ Live Demo</strong></a>
+  <a href="https://codesbyasif.github.io/personal-portfolio/"><strong>➥ Live Demo</strong></a>
 
